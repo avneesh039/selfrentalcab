@@ -1,0 +1,5 @@
+# Backups and archives
+*.zip
+
+# Server configs / SSL cert verification
+.well-known/
